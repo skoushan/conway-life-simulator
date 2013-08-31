@@ -1,0 +1,19 @@
+x = 301, y = 76, rule = B3/S23
+73bo$73bobo$73boo8$63bo232bo$63bobo229bo$63boo230b3o5$41bo85bobo42bobo
+$40b3o85boo42boo$39b3obo84bo44bo$40bo3bo8bo232bo$41bo3bo7bobo229bo$42b
+ob3o6boo204boo24b3o$43b3o213boo$44bo$$36boo220boo$35boob4o95bobo22bobo
+93boobo$36boo4bo95boo22boo97bo$35bo6boo94bo24bo97bo$35bo4bobo215bobbo
+14bo$35bo5bo68boo18boo38boo18boo67boo14bo$35bo3bo3bobo62booboo15booboo
+36booboo15booboo58boobbo7bo10b3o$34bobbo18b3o49b4o16b4o38b4o16b4o54boo
+bboo3bo4booboo$33bobbo6bobo10b4o49boo18boo40boo18boo55boo7bo6bo$27bob
+4o17bo4boo196b4o$26b3o5bo224bo$26bobo4bo15boo4bo91bo6bo104bo$27bo18b4o
+10bobo82booboobbooboo101bobo$19bo7bo4bo14b3o97bo6bo104bo$18b3o6bobbo
+29bobo196bo$17b3obo5bo3bo$18bo3bo5b3o$19bo3bo5bobbobo23boo$20bob3o33b
+oo$21b3o8bobo$22bo15bo108bo6bo$38boo105booboobbooboo122bo$38boo107bo6b
+o123boo$37b3o217boo19bobo$35bobo218bobo$109boo18boo40boo18boo65bo$108b
+4o16b4o38b4o16b4o80boo$20b3o85booboo15booboo36booboo15booboo79boo$22bo
+87boo18boo38boo18boo83bo$21bo13bobo$33b3o102bo24bo$33boo103boo22boo
+125bo$33boo8boo92bobo22bobo123boo$34bo8boo202boo39bobo$38bobo205bobo$
+248bo$38bobo243boo$10b3o270boo$12bo272bo$11bo$128bo44bo$128boo42boo
+125bo$127bobo42bobo123boo$237boo59bobo$236bobo$238bo$294boo$3o290boo$
+bbo292bo$bo!

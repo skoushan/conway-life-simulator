@@ -1,0 +1,18 @@
+#CBottom (gliderless) stabilization by Nicolay Beluchenko,
+#C5/'07.
+x = 67, y = 86, rule = B3/S23
+40boo6boo$40boo6boo7$24boo38boo$23bobo38bobo$23boboboo32boobobo$24bobo
+bo32bobobo$26bo13b3o4b3o13bo$26boo11bobbo4bobbo11boo$26b3o9bo3bo4bo3bo
+9b3o$26b3o9bo12bo9b3o$26b3o9bo3bo4bo3bo9b3o$26b3o10bobbo4bobbo10b3o$
+26boo12b3o4b3o12boo$26bo36bo$24bobobo32bobobo$23boboboo32boobobo$23bob
+o12boo24bobo$24boo10b5o23boo$41bo$35bobobbo$34bobboo$35boo13boo$50bo$
+38bo12b3o$31boo4bobo13bo$30bobo3bo3bo6boo$30bo5bo3bo6boo$29boo5bo3bo$
+37bobo$38bo$$45boo$45bobo$47bo$47boo$21bo$21b3o$24bo10bo$23boo9bobo4$
+32boo$31bobo$31bo$31b3o$12boo22b3o$5boo6bo24bo$6bo6boboo19bobo$oobbo7b
+oobbo19boo$o3boo5bobbo$b3obbo3bob3o$3bobobobobbobboo28boo$4bobo4boob3o
+28bo$4boo3bobboboboo5bo22b3o$5b4o6b3o4b3o23bo$5boboo5boboo3bobobo$4bo
+9b3o3b3ob3o$bboo8bobboo4bobobo$bboo5bo4bo7b3o$8bobo3bo$bboo5bo4bo7b3o$
+bboo8bobboo4bobobo12boo$4bo9b3o3b3ob3o11boo$5boboo5boboo3bobobo$5b4o6b
+3o4b3o$4boo3bobboboboo5bo$4bobo4boob3o$3bobobobobbobboo15bo$b3obbo3bob
+3o17bo$o3boo5bobbo16b3o$oobbo7boobbo$6bo6boboo$5boo6bo$12boo16b5o$29bo
+b3obo$29bobobobo$28booboboboo$27bobbooboobbo$27boo7boo!

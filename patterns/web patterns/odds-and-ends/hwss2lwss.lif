@@ -1,0 +1,21 @@
+#C p88 HWSS into LWSS converter
+#C The converter uses two copies of a variation of David Buckingham's
+#C p44 oscillator. Peter Rott, Aug 1998 [SLV88]
+x = 84, y = 96, rule = B3/S23
+57boo6boo$57boo6boo5$58bo6bo$57b3o4b3o$41boo13boobbobbobboo4boo4boo$
+40bobo13bo3bobbo3bo4boo3bobo$40boboboo8b3o3bobbo3b3o7boboboo$41bobobo
+10bo3bobbo3bo10bobobo$43bo17boo17bo$41bobbo11bo10bo11bobbo$44bo8bobbo
+10bobbo8bo$40bo3bo6boo4boo6boo4boo6bo3bo$40bo3bo8bobbo10bobbo8bo3bo$
+44bo11bo10bo11bo$41bobbo16boo16bobbo$43bo12bo3bobbo3bo12bo$41bobobo8b
+3o3bobbo3b3o8bobobo$40boboboo10bo3bobbo3bo9boboboo$40bobo13boobbobbobb
+oo9bobo$41boo14b3o4b3o11boo$58bo6bo3$67boo$67bo$68b3o$48boo20bo$47bobo
+14boo$47bo12boobboo$46boo11boo$59bo$46boo4boobb3o$47bo7boboo$47bobo5b
+oo$48boo7$bboo42boo$o4bo38bo4bo$6bo43bo$o5bo37bo5bo$b6o38b6o8$46boo5bo
+$45bobo4b3o$45bo5bobobo$44boo5bo3bo$50bo5boo$44boo12bo$45bo8boobboobb
+oo$45boboo5boobo4boo$46boo20bo$48bo17b3o$65bo$65boo4$39boo35boo$38bobo
+15bo6bo11bobo$38boboboo11b3o4b3o10boboboo$39bobobo10boobbobbobboo10bob
+obo$41bo16bobbo16bo$39bobbo10bo3boboobo3bo10bobbo$42bo14b6o14bo$38bo3b
+o8bo4boo4boo4bo8bo3bo$38bo3bo6b3o3boo6boo3b3o6bo3bo$42bo8bo4boo4boo4bo
+8bo$39bobbo14b6o14bobbo$41bo11bo3boboobo3bo11bo$39bobobo14bobbo14bobob
+o$38boboboo10boobbobbobboo9boboboo$38bobo14b3o4b3o5boo3bobo$39boo15bo
+6bo6boo4boo7$55boo6boo$55boo6boo!
